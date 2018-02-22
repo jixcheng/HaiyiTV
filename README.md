@@ -1,1 +1,1 @@
-This is a readme
+这是海怡影院官方Repository，请不要盗用
