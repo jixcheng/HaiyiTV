@@ -1,0 +1,49 @@
+body, html {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+.navTop {
+	height: 75px;
+	border-bottom: 1px solid black;
+	background-color: white;
+	
+}
+
+.navbar-brand img {
+	height: 55px;
+	float: left;
+	margin: auto;
+}
+
+.navbar-nav {
+	float: right;
+}
+
+.navbar-nav li a {
+	font-family: Century Gothic;
+	font-size: 16px;
+	margin: auto;
+	margin-top: 10px;
+}
+
+.container {
+	height: 100%;
+	width: 100%;
+}
+
+.footer {
+	display: inline-block;
+	margin: 0 auto;
+	width: 100%;
+	border-top: 1px solid black;
+}
+
+.footer p, a {
+	margin: 0 auto;
+	display: inline-block;
+}
